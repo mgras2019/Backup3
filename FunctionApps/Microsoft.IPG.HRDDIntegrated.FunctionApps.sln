@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microsoft.IPG.HRDDIntegrated.ETLDataProcessor", "Microsoft.IPG.HRDDIntegrated.ETLDataProcessor\Microsoft.IPG.HRDDIntegrated.ETLDataProcessor.csproj", "{1D29D81D-06ED-4EA2-B301-82AB13F022B3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microsoft.IPG.HRDDIntegrated.Reporting", "Microsoft.IPG.HRDDIntegrated.Reporting\Microsoft.IPG.HRDDIntegrated.Reporting.csproj", "{5E1FD630-A452-48C3-81A3-8CE185312F42}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microsoft.CAP.HRDDI.RetryFailedQuoteFlagging", "Microsoft.CAP.HRDDI.RetryFailedQuoteFlagging\Microsoft.CAP.HRDDI.RetryFailedQuoteFlagging.csproj", "{8D44A08C-0219-4D9A-92D6-9AC6BFA11336}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microsoft.CAP.DistributedCache", "Microsoft.CAP.DistributedCache\Microsoft.CAP.DistributedCache.csproj", "{D70B4F39-A95F-498B-910E-2FF15FCE6FC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.CAP.ICEM", "Microsoft.CAP.ICEM\Microsoft.CAP.ICEM.csproj", "{182E9E98-1D28-4414-8EB8-C1E3F7D9CBA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D29D81D-06ED-4EA2-B301-82AB13F022B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D29D81D-06ED-4EA2-B301-82AB13F022B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D29D81D-06ED-4EA2-B301-82AB13F022B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D29D81D-06ED-4EA2-B301-82AB13F022B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E1FD630-A452-48C3-81A3-8CE185312F42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E1FD630-A452-48C3-81A3-8CE185312F42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E1FD630-A452-48C3-81A3-8CE185312F42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E1FD630-A452-48C3-81A3-8CE185312F42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D44A08C-0219-4D9A-92D6-9AC6BFA11336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D44A08C-0219-4D9A-92D6-9AC6BFA11336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D44A08C-0219-4D9A-92D6-9AC6BFA11336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D44A08C-0219-4D9A-92D6-9AC6BFA11336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D70B4F39-A95F-498B-910E-2FF15FCE6FC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D70B4F39-A95F-498B-910E-2FF15FCE6FC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D70B4F39-A95F-498B-910E-2FF15FCE6FC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D70B4F39-A95F-498B-910E-2FF15FCE6FC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{182E9E98-1D28-4414-8EB8-C1E3F7D9CBA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{182E9E98-1D28-4414-8EB8-C1E3F7D9CBA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{182E9E98-1D28-4414-8EB8-C1E3F7D9CBA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{182E9E98-1D28-4414-8EB8-C1E3F7D9CBA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C97C3392-1C19-420D-A64E-5C80F7D531C8}
+	EndGlobalSection
+EndGlobal

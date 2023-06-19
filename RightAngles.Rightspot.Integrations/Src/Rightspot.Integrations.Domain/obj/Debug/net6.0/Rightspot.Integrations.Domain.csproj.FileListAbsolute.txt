@@ -1,0 +1,12 @@
+C:\MGLabs\RightAngles.Rightspot.Integrations\Src\Rightspot.Integrations.Domain\bin\Debug\net6.0\Rightspot.Integrations.Domain.deps.json
+C:\MGLabs\RightAngles.Rightspot.Integrations\Src\Rightspot.Integrations.Domain\bin\Debug\net6.0\Rightspot.Integrations.Domain.dll
+C:\MGLabs\RightAngles.Rightspot.Integrations\Src\Rightspot.Integrations.Domain\bin\Debug\net6.0\Rightspot.Integrations.Domain.pdb
+C:\MGLabs\RightAngles.Rightspot.Integrations\Src\Rightspot.Integrations.Domain\obj\Debug\net6.0\Rightspot.Integrations.Domain.csproj.AssemblyReference.cache
+C:\MGLabs\RightAngles.Rightspot.Integrations\Src\Rightspot.Integrations.Domain\obj\Debug\net6.0\Rightspot.Integrations.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\MGLabs\RightAngles.Rightspot.Integrations\Src\Rightspot.Integrations.Domain\obj\Debug\net6.0\Rightspot.Integrations.Domain.AssemblyInfoInputs.cache
+C:\MGLabs\RightAngles.Rightspot.Integrations\Src\Rightspot.Integrations.Domain\obj\Debug\net6.0\Rightspot.Integrations.Domain.AssemblyInfo.cs
+C:\MGLabs\RightAngles.Rightspot.Integrations\Src\Rightspot.Integrations.Domain\obj\Debug\net6.0\Rightspot.Integrations.Domain.csproj.CoreCompileInputs.cache
+C:\MGLabs\RightAngles.Rightspot.Integrations\Src\Rightspot.Integrations.Domain\obj\Debug\net6.0\Rightspot.Integrations.Domain.dll
+C:\MGLabs\RightAngles.Rightspot.Integrations\Src\Rightspot.Integrations.Domain\obj\Debug\net6.0\refint\Rightspot.Integrations.Domain.dll
+C:\MGLabs\RightAngles.Rightspot.Integrations\Src\Rightspot.Integrations.Domain\obj\Debug\net6.0\Rightspot.Integrations.Domain.pdb
+C:\MGLabs\RightAngles.Rightspot.Integrations\Src\Rightspot.Integrations.Domain\obj\Debug\net6.0\ref\Rightspot.Integrations.Domain.dll

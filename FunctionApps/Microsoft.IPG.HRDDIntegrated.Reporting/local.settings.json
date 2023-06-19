@@ -1,0 +1,25 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "ContainerName": "excelreport",
+    "ExcelRowCountThreshold": 50000,
+    "ExcelBatchProcess": 30000,
+    "ExcelBlobBaseUrl": "https://hrddintegrateddev.azurewebsites.net/ea/excelreport",
+    "FuncAuthTokenKey": "",
+    "ExcelExportQueue": "excelexport",
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "WEBSITE_RUN_FROM_PACKAGE": "0",
+    "EADBConnection": "",
+    "AzureStorageConnection": "",
+    "EmailServiceUrl": "https://app-cap-ces-notificationhandler-dev.azurewebsites.net/",
+    "CAPEmailResource": "9ccd13d4-2a4e-4ca9-8041-de2bad9bd50c",
+    "CAPSendEmailEndpoint": "v1/email/queue/hrddi",
+    "Instance": "https://login.microsoftonline.com/",
+    "Domain": "microsoft.onmicrosoft.com",
+    "ClientId": "a7f6575f-00f4-40eb-9abb-0a4645696eea",
+    "ClientSecret": "",
+    "Environment": "[Dev]"
+  }
+}

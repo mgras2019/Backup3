@@ -1,0 +1,27 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "KeyVaultUrl": "https://hrddintegrateddev.vault.azure.net/",
+    "Instance": "https://login.microsoftonline.com/",
+    "Domain": "microsoft.onmicrosoft.com",
+    "ClientId": "ICEMClientId",
+    "ClientSecret": "ICEMClientSecret",
+    "ICEMResourceUrl": "ICEMResourceUrl",
+    "ICEMBaseAddress": "https://dev-3pcapi.microsoft.com/icem/v1/",
+    "RequestorTeamsEndpoint": "options/getrequestorteams",
+    "PartnerTypesEndpoint": "options/getpartnertypes",
+    "PartnerCountriesEndpoint": "options/getpartnercountries",
+    "ReasonsForEscalationEndpoint": "options/getreasonsforescalation",
+    "InvestigationTeamsEndpoint": "options/getinvestigationteams",
+    "CreatePAMEndpoint": "pamintake/PamIntakeRequest",
+    "PAMInvestigationTeamCode": "PAMInvestigationTeamId",
+    "ReasonForEscalationCode": "ReasonForEscalationCode",
+    "EAProgramCode": "EAProgramCode",
+    "OPENProgramCode": "OPENProgramCode",
+    "RequestorTeamCode": "RequestorTeamCode"
+
+
+  }
+}

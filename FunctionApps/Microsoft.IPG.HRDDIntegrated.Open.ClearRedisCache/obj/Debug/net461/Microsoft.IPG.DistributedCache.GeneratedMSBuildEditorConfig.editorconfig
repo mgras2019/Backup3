@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Microsoft.IPG.DistributedCache
+build_property.ProjectDir = C:\Users\v-kkoppolu\source\HRDDI\FunctionApps\Microsoft.IPG.HRDDIntegrated.Open.ClearRedisCache\

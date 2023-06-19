@@ -1,0 +1,6 @@
+download .net 7 --> https://dotnet.microsoft.com/en-us/download/dotnet
+
+upgrade visual studio 2022
+
+1. Create Solution
+2. Add editorconfig File
